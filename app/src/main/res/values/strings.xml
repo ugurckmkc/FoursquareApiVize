@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FoursquareApiVize</string>
+    <string name="find">Yakındaki Yerleri Bul</string>
+    <string name="google_maps_key">AIzaSyB1F959L1o0b2Ty6TvHq4wP9cxhgdnaAIU</string>
+    <string name="foursquare_client_id">G14QMM5ORJD3ENUBGF5CJ0I4VWQI0GNMHGYV2H5NXTXJNDZI</string>
+    <string name="foursquare_client_secret">2V11EHKWQFSI15YXASZPHWUUUH441K03VBGQQ4YE0S1CH4MF</string>
+    <string name="Başlık">YAKIN OLDUĞUNUZ YERLER</string>
+</resources>
